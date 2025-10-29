@@ -1,0 +1,22 @@
+.my-button {
+    background-color: #ee49a6; /* Green */
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 30px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #b44c87;
+    border-radius: 60px;
+    
+}
+.my-button:hover {
+    background-color: #8d1286;
+    border-color: #ee49a6;
+    transition: 1s;
+}   
